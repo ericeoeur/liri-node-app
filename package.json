@@ -18,6 +18,10 @@
   "homepage": "https://github.com/ericeoeur/liri-node-app#readme",
   "dependencies": {
     "dotenv": "^4.0.0",
-    "request": "^2.83.0"
+    "fs": "0.0.1-security",
+    "inquirer": "^5.0.0",
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
   }
 }
